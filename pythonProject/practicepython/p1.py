@@ -10,7 +10,7 @@ Dictionary1.update({'d':'go'})
 
 
 print(Dictionary1.keys())
-li1=[1,2,3,4]
-li2=[4,5,6,7]
+li1=[1,2,3]
+li2=[4,5,6]
 d=dict(zip(li1,li2))
 print(d)

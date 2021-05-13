@@ -1,0 +1,2 @@
+,company_number,address_line_1,locality,postal_code,premises,region,country_of_residence,month,year,etag,kind,self,name,forename,middle_name,surname,title,nationality,natures_of_control,notified_on
+0,12345678,Address 1,Henley-On-Thames,RG9 1DP,161,Oxfordshire,England,2,1977,26281dhge33b22df2359sd6afsff2cb8cf62bb4a7f00,individual-person-with-significant-control,/company/12345678/persons-with-significant-control/individual/bIhuKnFctSnjrDjUG8n3NgOrl,John M Smith,John,M,Smith,Mrs,Vietnamese,['ownership-of-shares-50-to-75-percent'],2016-04-06

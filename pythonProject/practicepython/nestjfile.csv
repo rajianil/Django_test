@@ -1,0 +1,12 @@
+,company_number,data
+address,12345678,"{'address_line_1': 'Address 1', 'locality': 'Henley-On-Thames', 'postal_code': 'RG9 1DP', 'premises': '161', 'region': 'Oxfordshire'}"
+country_of_residence,12345678,England
+date_of_birth,12345678,"{'month': 2, 'year': 1977}"
+etag,12345678,26281dhge33b22df2359sd6afsff2cb8cf62bb4a7f00
+kind,12345678,individual-person-with-significant-control
+links,12345678,{'self': '/company/12345678/persons-with-significant-control/individual/bIhuKnFctSnjrDjUG8n3NgOrl'}
+name,12345678,John M Smith
+name_elements,12345678,"{'forename': 'John', 'middle_name': 'M', 'surname': 'Smith', 'title': 'Mrs'}"
+nationality,12345678,Vietnamese
+natures_of_control,12345678,['ownership-of-shares-50-to-75-percent']
+notified_on,12345678,2016-04-06
